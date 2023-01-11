@@ -1,0 +1,4 @@
+name,value_source,value_dest
+buttonExitNav,,الخروج من نظام التجوال
+navSelectAlwaysIgnoreMessage,حدّد تجاهل دائماً لحظر العناوين التي يتم تلقيها من المقعد الخلفي.,"حدّد ""تجاهل دائماً"" لحظر العناوين التي يتم تلقيها من المقعد الخلفي."
+titleMapOptions,إعدادات,الخيارات

@@ -1,0 +1,14 @@
+name,value_source,value_dest
+Calculating,Calculating...,"""Calculating..."""
+buttonExitNav,,Exit Nav
+navConnectPlanExpire,Your %1$s Connected Navigation Plan has expired.\nPlease renew your plan through %1$s to update your map.,Your  %1$s Connected Navigation Plan has expired.\nPlease renew your plan through %1$s to update your map.
+navSwipeMinimizeCard,Swipe down to minimize card,Swipe down to minimize  card
+recordRouteDistanceSave,%1$s/n %2$s at %3$s\nDistance: %4$s\nDo you want to save?,%1$s/n %2$s at %3$s\nDistance:  %4$s\nDo you want to save?
+restartNavSystemNotice,"You must restart Nav before new subscription takes effect. Otherwise, subscription won\'t be available until the next time you start your engine.nRestart now?","You must restart Nav before new subscription takes effect. Otherwise,  subscription won\'t be available until the next time you start your engine.n\Restart now?"
+setting_destinationCard,Key Destination,Destination Card
+setting_evSettings,Charging Preferences,EV Preferences
+setting_moreSettings,More,More Settings
+splashTip1,Caution: Do not input data or queries while driving.,<b>Caution:</b> Do not input data or queries while driving.
+teamTravelJoinFail,Team doesn’t exist or wrong PIN code.,Team doesn\’t exist or wrong PIN code.
+teamTravelJoinSuccess,You\'ve joined %1$s,"""You\'ve joined %1$s"""
+titleMapOptions,Settings,Options
