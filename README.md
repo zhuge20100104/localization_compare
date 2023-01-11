@@ -24,7 +24,7 @@
     python str_value_compare.py --source ./pangu.apk --source_col "en" --dest ./dest_values.csv --dest_col "en(English)"
 
     # 阿拉伯语
-    python .\str_value_compare.py --source .\pangu.apk  --source_col "ar"  --dest .\dest_values.csv  --dest_col "ar(Arabic)"
+    python str_value_compare.py --source ./pangu.apk  --source_col "ar"  --dest ./dest_values.csv  --dest_col "ar(Arabic)"
 
 
 ```
