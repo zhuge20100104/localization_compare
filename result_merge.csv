@@ -1,0 +1,1379 @@
+,name,value_dest
+0,Calculating,"""Calculating..."""
+1,CancelTrip,Cancel Trip
+2,CommonStreetNumber,#
+3,CommonUndoButtonText,Undo
+4,EnterBetweenParkingInformation,Enter %1$s - %2$s
+5,ExitBetweenParkingInformation,Exit %1$s - %2$s
+6,LastUpdate,Last Update:
+7,MRTStationItemLabel,Subway/Light Rail Stations
+8,MinimumParkingPriceInformation,From
+9,RecentDestinationsClearedMessage,Recent Destinations Cleared
+10,RecentDestinationsRestoredMessage,Recent Destinations Restored
+11,SdCardInfo,SD card info:
+12,SdcardErrorTitle,Map Data Error
+13,SdcardFunctionNotProperlyErrorMessage,Map data is not functioning properly.
+14,SdcardNotValidForVehicleErrorMessage,Map data is not valid in this vehicle for navigation. Please consult your dealer for more information.
+15,SdcardRemovedErrorMessage,Map data is not functioning properly.
+16,SearchHistoryClearedMessage,Search History Cleared
+17,SearchHistoryRestoredMessage,Search History Restored
+18,TripAssistMessage,Smart Destination learns and predicts your favorite stops to help you get there faster without any typing.\n\nManage Smart Destination in Options > Settings > Predictive Navigation.
+19,Update,Update
+20,Updating,Updating
+21,acquiringGpsOnSplash,Acquiring GPS
+22,acquiringLocalTrafficOnSplash,Acquiring Local Traffic
+23,actionFailed,Action Failed
+24,addNewDestination,Add New Destination
+25,addressCustom,Custom
+26,addressFormatHint,Keyword or Address
+27,addressHintText,Tap to set up
+28,addressHome,Home
+29,addressItemLabel,Address
+30,addressSearchFirstHint,Street
+31,addressSearchSecondHint,Number
+32,addressSearchThirdHint,"City, Country"
+33,addressWork,Work
+34,adjustFiltersVar,Try adjusting the filters to see more results.
+35,advisor,Advisor
+36,airportItemLabel,Airports
+37,alertBetterRouteFound,Better route found
+38,alertCentralLaneClose,Center Lane Closed
+39,alertLeftLaneEnd,Left Lane Ends
+40,alertMsgAccidentAhead,Accident Ahead
+41,alertMsgCautionPotentialAccidentArea,Potential Accident Area
+42,alertMsgCongestionAhead,Congestion Ahead
+43,alertMsgConstructionAhead,Construction Ahead
+44,alertMsgDifficultDrivingConditionAhead,Difficult Driving Condition Ahead
+45,alertMsgDisabledVehicleAhead,Disabled Vehicle Ahead
+46,alertMsgFrequentTrafficAccidentAhead,Frequent Traffic Accidents Ahead
+47,alertMsgLaneRestrictionCameraAhead,Lane Restriction Camera Ahead
+48,alertMsgNoLeftOrRightTurnAhead,No Left or Right Turn Ahead
+49,alertMsgNoLeftTurnAhead,No Left Turn Ahead
+50,alertMsgNoRightTurnAhead,No Right Turn Ahead
+51,alertMsgOneWayRoadAhead,One-Way Road Ahead
+52,alertMsgQuickTurnAhead,Quick Turn Ahead
+53,alertMsgRedLightCameraAhead,Red Light Camera Ahead
+54,alertMsgReduceSpeed,Reduce Speed
+55,alertMsgRestrictedRoadAhead,Restricted Road Ahead
+56,alertMsgRoadClosureAhaed,Road Closure Ahead
+57,alertMsgRoadMergesFromLeft,Road Merges from Left
+58,alertMsgRoadMergesFromRight,Road Merges from Right
+59,alertMsgRockSlideAreaOnLeft,Rock Slide Area on Left
+60,alertMsgRockSlideAreaOnRight,Rock Slide Area on Right
+61,alertMsgSharpDetoursAhead,Sharp Detours Ahead
+62,alertMsgSharpLeftAhead,Sharp Left Ahead
+63,alertMsgSharpRightAhead,Sharp Right Ahead
+64,alertMsgSlipperyRoadAhead,Slippery Road Ahead
+65,alertMsgSnowIceAhead,Snow & Ice Ahead
+66,alertMsgSpeedBumpAhead,Speed Bump Ahead
+67,alertMsgSpeedTrapAhead,Speed Trap Ahead
+68,alertMsgTrafficCameraAhead,Traffic Camera Ahead
+69,alertMsgTunnel,Tunnel on Route
+70,alertMsgTunnelAhead,Tunnel Ahead
+71,alertMsgWindingRoadAhead,Winding Road Ahead
+72,alertNoNetworkForFilterChargingNetworks,No network connection.\nCharging networks filter is not applied.
+73,alertOptionsLabel,Alert Preferences
+74,alertOptionsTitle,Alert Preferences
+75,alertPreferencesAllAlerts,All Alerts
+76,alertPreferencesCongestionAlerts,Traffic Alerts
+77,alertPreferencesRoadDiversionAlerts,Road Diversion Alerts
+78,alertPreferencesRoadSafetyAlerts,Road Safety Alerts
+79,alertPreferencesScreenTitle,Alert Preferences
+80,alertPreferencesTrafficCameraAlerts,Traffic Camera Alerts
+81,alertRailroadCrossing,Railroad Crossing Ahead
+82,alertRedLightSpeedCamera,Red Light Speed Camera Ahead
+83,alertRightLaneEnd,Right Lane Ends
+84,alertSchoolZone,School Zone Ahead
+85,alertSpeedCamera,Speed Camera Ahead
+86,alertTnCMessage,Feature Not Available While Driving
+87,alertmsgFerry,Ferry on Route
+88,alertmsgHighWay,Highway on Route
+89,alertmsgTollRoad,Toll Road on Route
+90,alertmsgUnpavedRoad,Unpaved Road on Route
+91,allDayFreeParkingOnBubble,Free
+92,amusementParkItemLabel,Amusement Parks
+93,annotationCVP0ResumeTripText,Resume Trip
+94,annotationCVP0SetUpHome,Set Up %1$s
+95,annotationCVP0TimeToHome,%1$s to %2$s
+96,annotationCVP0TimeVia,via %1$s
+97,askBeforeRerouting,Ask before Rerouting
+98,atmItemLabel,ATMs
+99,atmScreenTitle,ATMs
+100,attractionItemLabel,Attractions
+101,attractionScreenTitle,Attractions
+102,attractionSubItemLabel,All Attractions
+103,autoPartsItemLabel,Auto Parts
+104,autoRerouteToBetterRoute,Auto Reroute to Better Route
+105,automotiveItemLabel,Automotive
+106,avoidSegmentButtonN,Cancel
+107,avoidSegmentButtonY,Avoid
+108,avoidSegmentMessage,Avoiding %1$s will recalculate the route from that turn onward.
+109,avoidSegmentTitle,Avoid %1$s?
+110,badmintonCourtItemLabel,Badminton Courts
+111,bakeryItemLabel,Bakeries
+112,bankItemLabel,Banks
+113,barItemLabel,Bars/Pubs
+114,barbecueItemLabel,Barbecue
+115,barsAsia,Bars
+116,basketballArenaItemLabel,Basketball Courts
+117,beachItemLabel,Beaches
+118,beautySalonItemLabel,Beauty Salons
+119,bedAndBreakfastItemLabel,Bed and Breakfasts
+120,benefitDataAnonymous,Help Improve Product Quality
+121,benefitDataWithProfileInfo,Enable Personalized Navigation
+122,bestMatchDescription,Sort results based on what is popular and your personal preferences.
+123,betterRouteMessageUse,Use %1$s.
+124,blackSpotAhead,Black Spot Ahead
+125,bookStoreItemLabel,Bookstores
+126,bowlingItemLabel,Bowling Alleys
+127,btnAcceptContinue,Accept and Continue
+128,btnAddChargingStop,Add EV Chargers
+129,btnChange,Change
+130,btnContinue,Continue
+131,btnContinueTrip,Continue Trip
+132,btnFindChargingStations,Find EV Chargers
+133,btnGetStarted,Get Started
+134,btnGoAnyway,Go Anyway
+135,btnGoBack,Go Back
+136,btnGotIt,Got It
+137,btnHintAddingChargers,Adding EV Chargers…
+138,btnHintCalculating,Calculating Route…
+139,btnHintCanceling,Canceling…
+140,btnHintOutofRange,Out of Range…
+141,btnHintUpdatingChargers,Updating EV Chargers…
+142,btnKeepCharging,Keep Charging
+143,btnLabelRestart,Restart
+144,btnNotThisTime,Not This Time
+145,btnUpdate,Update
+146,btn_delete,Delete
+147,btn_removeFromFavorite,Remove from Favorite
+148,btn_saveToFavorite,Save to Favorite
+149,bubbleChange,Change
+150,bubbleEndPoint,End Point
+151,bubbleNear,Near
+152,bubbleNoChargingNearDest,No Chargers in Range
+153,bubbleOutOfRange,Out of Range
+154,bubbleStartPoint,Starting Point
+155,busStationItemLabel,Bus Stations
+156,buttonDoNotSaveRecordedRoute,Don\'t Save
+157,buttonExitNav,Exit Nav
+158,buttonLearnMore,Learn More
+159,buttonNextSDcard,Next
+160,buttonRecordNewRoute,Record New Route
+161,buttonSaveRecordedRoute,Save
+162,buttonStartTraceRoute,Trace Route
+163,campingItemLabel,Campgrounds
+164,candidateOthers,Other Road:
+165,candidateRamp,Ramp:
+166,candidateSurficialFrontageRoad,Ground Side Road:
+167,candidateTunnel,Tunnel:
+168,cannotAvoidPreferenceVar,Cannot Avoid %1$s
+169,carColor,Color
+170,carModel,Model
+171,carRentalItemLabel,Car Rental
+172,carWashItemLabel,Car Wash
+173,casinoItemLabel,Casinos
+174,categoryBiodieselStation,Biodiesel Stations
+175,categoryBowling,Bowling
+176,categoryChicken,Chicken
+177,categoryDeli,Deli
+178,categoryDeliSandwiches,Deli/Sandwiches
+179,categoryDieselStation,Diesel Stations
+180,categoryE10Station,E10 Stations
+181,categoryE85Station,E85 Stations
+182,categoryFurniture,Furniture
+183,categoryGamingArcade,Gaming Arcades
+184,categoryHostel,Hostels
+185,categoryHydrogenStation,Hydrogen Stations
+186,categoryKaraoke,Karaoke
+187,categoryShoes,Shoes
+188,categorySnackBeverages,Snack and Beverages
+189,categorySnackJuice,Snack and Juice Bars
+190,categorySoccerClub,Soccer Clubs
+191,categorySoccerField,Soccer Fields
+192,categorySpecialtyFood,Specialty Food
+193,categoryWholesaleClub,Wholesale Club Stores
+194,categoryWinery,Wineries
+195,censorshipIdLabel,Censorship ID:
+196,chargingStationTabLabel,Charging
+197,chargingStationTitle,Charging Stations
+198,chargingSuggestion,Charge to %1$s
+199,checkingMapVersionOnSplash,Checking Map Version
+200,chickenItemLabel,Chicken
+201,chineseRestaurantItemLabel,Chinese Restaurants
+202,coachDismissHelp,Touch screen to dismiss help
+203,coachRouteOverview,Toggle to see route overview
+204,coachTimeEnroute,Toggle to see time to enroute
+205,coachTripAssist,Smart Destination shows important drive information for your usual trips
+206,coachmarkMFCMapMode,Push knob to enter map mode
+207,coffeeItemLabel,Coffee
+208,coffeeRootItemLabel,Coffee
+209,commercialStreetItemLabel,Shopping Districts
+210,commonAccept,Confirm
+211,commonCancel,Cancel
+212,commonClose,Close
+213,commonDecline,Decline
+214,commonDirectionE,E
+215,commonDirectionN,N
+216,commonDirectionNE,NE
+217,commonDirectionNW,NW
+218,commonDirectionS,S
+219,commonDirectionSE,SE
+220,commonDirectionSW,SW
+221,commonDirectionW,W
+222,commonDisable,Disable
+223,commonDone,Done
+224,commonEnable,Enable
+225,commonFeet,ft
+226,commonFriday,Fri
+227,commonGpsUnavailable,GPS Unavailable
+228,commonHistoryClearedMessage,%1$s cleared.
+229,commonHistoryRestoredMessage,%1$s restored.
+230,commonKilometer,km
+231,commonLoading,Loading…
+232,commonMapServiceServiceRouteNotFound,Route not found.
+233,commonMapServiceServiceWayPointFail,Failed to add Destination to route.
+234,commonMeter,m
+235,commonMile,mi
+236,commonMonday,Mon
+237,commonNetworkError,Unable to retrieve data.
+238,commonNo,No
+239,commonOff,Off
+240,commonOk,OK
+241,commonOn,On
+242,commonOthers,Others
+243,commonParkingPriceArriveDepartFormat,from %1$s to %2$s
+244,commonParkingPriceArriveFormat,arrive %1$s
+245,commonParkingPriceDepartFormat,depart %1$s
+246,commonParkingPriceMaxMinutes,max %1$s
+247,commonParkingPriceMinMinutes,min %1$s
+248,commonRemove,Remove
+249,commonRenew,Renew
+250,commonRestart,Restart
+251,commonSaturday,Sat
+252,commonSunday,Sun
+253,commonThursday,Thu
+254,commonTimeUnitHour,hr
+255,commonTimeUnitHourAbbreviation,h
+256,commonTimeUnitMinute,min
+257,commonTimeUnitMinuteAbbreviation,m
+258,commonTuesday,Tue
+259,commonUnitDay,day
+260,commonUnitDays,%1$d days
+261,commonUnitFlatRate,Flat Rate
+262,commonUnitHour,hr
+263,commonUnitHours,%1$d hr
+264,commonUnitMinute,min
+265,commonUnitMinutes,%1$d min
+266,commonUnitMonth,month
+267,commonUnitMonths,%1$d months
+268,commonUnitQuarter,quarter
+269,commonUnitYear,year
+270,commonUnnamedRoad,Unnamed Road
+271,commonWednesday,Wed
+272,commonYard,yd
+273,commonYes,Yes
+274,commuteDueToTrafficVars,Commute from %1$s to %2$s takes %3$s due to Traffic.
+275,concertHallItemLabel,Concert Halls
+276,consumerElectronicsItemLabel,Consumer Electronics
+277,contactChooseNumber,Choose a Number
+278,contactSearchHint,Contact Name
+279,contactsItemLabel,Contacts
+280,contentPorchViewPermission,Tap to launch Nav
+281,convenienceStoreItemLabel,Convenience Stores
+282,couldNotFindChargingStation,Could Not Find Charging Station
+283,currentLocationSuggestionText,Current Location
+284,dayCostVar,Day Cost:
+285,daytimePrice,Daytime Price
+287,dealershipScreenTitle,Dealerships
+288,defaultIncidentInfo,Information Unavailable
+289,deleteAddress,Delete
+290,deleteRecordedRoute,Delete Recorded Route?
+291,deliItemLabel,Delis/Sandwiches
+292,departmentStoreItemLabel,Department Stores
+293,desCardBasedOn,Show Destination Card Based on:
+294,desChargingBuffer,Adjusting the reserve level will affect Charging Station Advisor recommendations. Low reserve levels may increase risks of being out of range.
+295,desFuelPreferences,Choose your preferred fuel grade. System will show prices based on your preference.
+296,desIncludeEV,Enable this toggle to automatically add EV chargers when destination is out of range.
+297,desNavigationPrivacy,All data collected by Navigation will be stored and used as described in our %1$s.
+298,desNavigationPrivacyOffline,"To switch to complete offline mode, please go to System Settings > Privacy, and set “Location Services” to OFF."
+299,desPreferredNetworks,Select your preferred charging network.
+300,desReserveLevel,Optimal EV chargers will be included in a trip if your vehicle charge is below this level. Low reserve levels may increase risks of being out of range.
+301,descriptionForAutoLearning,Enable Predictive Navigation below for smart search and routing.
+302,dessertsBeverages,Desserts/Beverages
+303,destinationFarFromRoad,Destination Far Away from Road
+304,destinationRemoved,Destination Removed
+305,detailsIncludeEV,Include EV Chargers
+306,dialogCannotRecordExceed,Cannot record more than %1$d routes.
+307,dialogCannotRecordMemoryCardIsFull,Nav SD Card full. Cannot record more routes at this time.
+308,dialogCannotRecordUnknownIssues,Unknown issues. Cannot record more routes at this time.
+309,dialogContentReminder,Predictive Navigation is On. You can always turn this Off at Settings.
+310,dialogContinueRecordingRoute,Continue Recording?
+311,dialogRecordedSince,Recorded since:\n%1$s at %2$s
+312,dialogStopRecordingMemoryDiskIsFull,Nav SD Card Full
+313,dialogStopRecordingUnknownIssues,Unknown issues.
+314,dialogStoppedRecording,Recording Stopped
+315,dialogTitleReminder,Reminder
+316,dialogueStoppedRecording,Recording Stopped
+317,disableDrivingRestrictionPopUpMessage,Turn off driving restrictions. For passenger use only.
+318,disableDrivingRestrictionPopUpTitle,Enable Keyboard
+319,disableGroupDrivingMessage,You will leave your team after disabling. This will be applied after Navigation restarts next time
+320,distanceToStartOrEndPoint,%1$s to %2$s
+321,downloadSizeVarDataRatesApply,The download size is approximately %1$sMB.\nData rates and/or overage fees may apply.
+322,downloadingOnlineTraffic,Downloading Online Traffic
+323,driveRange,Electric Range: Up to %1$s
+324,driveRangeTitle,Electric Range:
+325,driveToWayPoint,Drive to %1$s
+326,drivingRestrictionAlertAgree,Agree
+327,drivingRestrictionAlertCancel,Cancel
+328,duplicateDestinationNextToStop,Duplicate Destination to Next Stop
+329,dynamicDetailOldInfoStr,%1$s ahead %2$s delay on %3$s.
+330,dynamicFastTimeStr,New route %1$s faster.
+331,dynamicIncidentAutomaticContent,Rerouting to better route via %1$s.
+332,dynamicIncidentForceContent,%1$s has been closed due to %2$s.
+333,dynamicIncidentRegularContent,Better route via %1$s.
+334,dynamicIncidentSaveTime,Save %1$s min
+335,dynamicIncidentTitleStr,%1$s Ahead
+336,dynamicRerouteDismissStr,Cancel
+337,dynamicRerouteRerouteStr,Reroute
+338,dynamicRerouteTipsStr,You will be notified if a better route is available.
+339,dynamicSlowTimeStr,New route %1$s slower.
+340,economyHotelItemLabel,Economy Hotels
+341,editAddress,Edit Address
+342,editFavoriteTitle,Edit Favorites
+343,editRouteListTabRoute,Directions
+344,editRouteListTabWayPoint,Destinations
+345,emergencyCenterItemLabel,Emergency Centers/Rooms
+346,emergencyItemLabel,Emergency
+347,emergencyScreenTitle,Emergency
+348,emergencyTrafficEventVars,%1$s in %2$s on %3$s (from %4$s to %5$s)
+349,emergencyVarNoDirection,%1$s in %2$s on %3$s
+350,emergencyVarsRouteViaVar,%1$s in %2$s on %3$s (from %4$s to %5$s)\nReroute via %6$s.
+351,emergencyViaVarNoDirection,%1$s in %2$s on %3$s.\nReroute via %4$s
+352,emergentTrafficVars,%1$s in %2$s on %3$s ( to %4$s)
+353,enableSmartSearchLabel,Enable for Smart Search and Routing
+354,enterAfterParkingInformation,Enter after %1$s
+355,enterBeforeParkingInformation,Enter before %1$s
+356,enterKeyword,Enter Keyword
+357,entertainmentItemLabel,Entertainment
+358,entertainmentScreenTitle,Entertainment
+359,entityArrivalDistance,Distance
+360,entityArrivalDuration,Duration
+361,entityDetail24HourText,24 Hours
+362,entityDetailChargeAvailableNo,Available %1$s
+363,entityDetailChargingCost,Charging Cost
+364,entityDetailDriveText,Go
+365,entityDetailFavoriteText,Favorite
+366,entityDetailHours,Hours
+367,entityDetailMoreInfo,More Info
+368,entityDetailNoRouteText,No Route Found
+369,entityDetailOpenHourText,Hours: %1$s
+370,entityDetailOpenStatusClosed,Closed
+371,entityDetailOpenStatusClosingSoon,Closing Soon
+372,entityDetailOpenStatusOpen,Open
+373,entityDetailPakingRates,Parking Rates
+374,entityDetailParkingSpots,Parking Spots Available
+375,entityDetailPhoneText,Call
+376,entityDetailPortsAvailable,Ports Available
+377,entityDetailPortsAvailableNo,%1$s/%2$s available
+378,entityDetailReportText,Report an Issue
+379,entityDetailRouteOptionText,Routes
+380,entityDetailTitle,Details
+381,eteUnitDay,d
+382,euSearchToolTip,"Place Name, Address, or Intersection"
+383,evChargerStatusTotal,Total
+384,evPowerNoValue,Pile
+385,evPowerUnit,kW
+386,evSearchAllFilters,Search All
+387,ev_connector_type_30001,J1772
+388,ev_connector_type_30002,SAE Combo
+389,ev_connector_type_30003,CHAdeMO
+390,ev_connector_type_30010,AC 7pin
+391,ev_detail_payment,Payment
+392,ev_feedtype_1,Normal Charge (≤6kW)
+393,ev_feedtype_2,Semi-Fast Charge (>6kW≤15kW)
+394,ev_feedtype_3,Fast Charge (>15kW≤50kW)
+395,ev_feedtype_4,Super Fast Charge (>50kW)
+396,evchargersItemLabel,EV Chargers
+397,exitAfterParkingInformation,Exit after %1$s
+398,exitBeforeParkingInformation,Exit before %1$s
+399,fastFoodItemLabel,Fast Food
+400,fastestTitle,Fastest
+401,favoriteEditLabelTaken,Label already taken. Choose another.
+402,favoriteRemoved,Favorite removed
+403,favoriteSaved,Favorite saved
+404,favoriteScreenTitle,Favorites
+405,favoritesItemLabel,Favorites
+406,featureNotCoveredInPlan,This feature is not available with your current %1$s Connected Navigation Plan.
+407,featureUnavailable,Feature Unavailable
+408,featureUnavailableContent,Turn on Location Services in the System Settings to use this feature.
+409,featureUnavailableTitle,Feature Unavailable
+410,featureUpdatePlan,Would you like to update your plan?
+411,feedbackItem1,Permanently Closed
+412,feedbackItem2,Address Incorrect
+413,feedbackItem3,Phone Number Incorrect
+414,feedbackItem4,Wrong Placement on Map
+415,feedbackItem5,Incorrect Route Information
+416,feedbackReportFinishedText,Feedback sent and will be considered for our next update.
+417,feedbackSendButtonText,Send
+418,feedbackTitleText,Report Location Issue
+419,ferryTerminalItemLabel,Ferry Terminals
+420,filteringBy,Filtering by:
+421,filtersAmenities,Amenities
+422,filtersAvailableNow,Available Now
+423,filtersChargingNetworks,Charging Networks
+424,filtersChargingSpeed,Charging Speed
+425,filtersFreeParking,Free Parking
+426,filtersWithinRange,Within Range
+427,financialItemLabel,ATMs
+428,firstHourVar,First Hour:
+429,fitnessCenterItemLabel,Fitness Centers
+430,foodItemLabel,Food
+431,foodScreenTitle,Food
+432,foodSubItemLabel,All Food
+433,foreignRestaurantItemLabel,Foreign Restaurants
+434,freeParkingPriceInformation,Free
+435,freeParkingPriceWithUnitOnBubble,Free/%1$s hr
+436,ftueActiveRouting,Active Routing – Gets the best route dynamically updated based on current road conditions
+437,ftueAroundTraffic,Get up-to-date traffic information
+438,ftueChargeAdvisor,Automatically add EV chargers along route to help you maintain a safe charge level.
+439,ftueDataDisclaimer,Personalized Navigation uses your driving and app data. All data will be stored and used as described in our %1$s
+440,ftueEnablePredictiveNav,ENABLE PREDICTIVE NAVIGATION
+441,ftueIntroducing,MAKE YOUR CAR SMARTER
+442,ftueLimitedHint,%1$s Connected Navigation is included with your vehicle for a limited time
+443,ftueMapUpdate,STAY UP TO DATE
+444,ftueNavConnect,Connected Navigation
+445,ftueNavConnectIntro,Helps you find and reach your destinations on time with real-time information.
+446,ftueNavConnectValue1,Real-Time Traffic
+447,ftueNavConnectValue2,Fresh Map Content
+448,ftueNavConnectValue3,Online Search
+449,ftueNavIntro,Makes your driving experience safer and more enjoyable.
+450,ftueNavValue1,Less Distraction
+451,ftueNavValue2,Detailed Offline Map
+452,ftueNavValue3,Easy Search
+453,ftueNext,Next
+454,ftuePersonalization,PERSONALIZE YOUR DRIVE
+455,ftuePersonalizationSub1,Enable Predictive Navigation to make your drive more personal
+456,ftuePersonalizationSub2,This feature is connected to your unique profile and can be managed from Settings
+457,ftuePersonalizedNavDestination,Predicts your next destination and automatically shows time to get there.
+458,ftuePersonalizedNavRouting,Gets the best route dynamically updated based on current traffic and road conditions.
+459,ftuePersonalizedNavSearch,Improves search and quickly finds places that matter to you.
+460,ftuePersonalizedNavTitle,PERSONALIZED NAVIGATION
+461,ftuePredictiveNavInclude,PREDICTIVE NAVIGATION
+462,ftuePredictiveNavIntro,Predictive Navigation learns your preferences by remembering where you\'ve been. It uses your location and navigation history to personalize routes and results. Learn more in the Privacy Statement.
+463,ftuePredictiveNavIsOn,Predictive Navigation is On. Turn Off at Settings.
+464,ftueSetUpProfile,Set Up Profile
+465,ftueSkip,Skip
+466,ftueSmartDestination,Smart Destination -- Learns and predicts your favorite stops and shows you the best routes to get there
+467,ftueSmartSearch,Smart Search – Quickly finds places that you care about
+468,ftueSmartWay,A complete set of connected features that help you make better decisions during your journey
+469,ftueSubTitleSuperCruise,LET GO AND STRESS LESS
+470,ftueSuperCruise,The world’s first true hands-free driver assistance feature for the freeway.\n\nTake advantage of Super Cruise when you see stretches of purple highway.
+471,ftueTetherPhone,Tether the Info System with your phone to get Live Traffic and enjoy navigating seamlessly
+472,ftueTitleChargeAdvisor,Charging Station Advisor
+473,ftueTitleChargingNetworks,Select Charging Networks
+474,ftueTitleSuperCruise,Super Cruise
+475,ftueToMap,To Map
+476,ftueToastTurnOnPredictiveNav,Predictive Navigation is Off. Turn On at Settings.
+477,ftueTurnOffButtonLabel,Turn Off
+478,ftueTurnOffSuperCruise,Turn off Super Cruise map display in Settings > Map Preferences
+479,ftueTurnOnButtonLabel,Turn On
+480,fuelScreenTitle,Fuel
+481,fuelStationTabLabel,Fuel
+482,fuelStationTitle,Fuel Stations
+483,gasCNGItemLabel,CNG Stations
+484,gasItemLabel,Fuel
+485,gasLPGItemLabel,LPG Stations
+486,gasSubItemLabel,All Fuel Stations
+487,generalHospitals,General Hospitals
+488,golfItemLabel,Golf Courses
+489,gpsWeakMessage,GPS signal is too weak. Please drive to an open space such as outdoor area.
+490,gpsWeakTitle,Unable to Activate
+491,gradeATertiaryHospitals,Grade A Tertiary Hospitals
+492,groceryItemLabel,Grocery Stores
+493,guestHouseItemLabel,Guest Houses
+494,gymnasiumItemLabel,Gymnasiums
+495,hamburgersItemLabel,Hamburgers
+496,handwritingArea,Handwriting Area
+497,healthItemLabel,Health
+498,healthScreenTitle,Health
+499,heavyTrafficOnRouteVar,Heavy Traffic on Usual Route to %1$s
+500,highwayExitListTitle,Exits
+501,highwayModeInterconnection,Interconnection
+502,highwayModeJunction,Junction
+503,highwayModeService,Service
+504,highwayPreferred,Highway Preferred
+505,highwayRestAreaTitle,Rest Area
+506,hintAvoidOnRouteCheckbox,Select routing options to avoid when possible.
+507,historicalSiteItemLabel,Historical Sites
+508,homeImprovementItemLabel,Home Improvement
+509,hospitalItemLabel,Hospitals
+510,hotelItemLabel,Hotels
+511,iceAreaItemLabel,Ice Rinks
+512,iceCreamItemLabel,Ice Cream
+513,incidentTypeAccident,Accident
+514,incidentTypeCongestion,Congestion
+515,incidentTypeConstruction,Construction
+516,incidentTypeDisableVehicle,Disabled Vehicle
+517,incidentTypeEvent,Event
+518,incidentTypeFlowCamera,Flow Camera
+519,incidentTypeHightWayExitCamera,Safety Camera
+520,incidentTypeMiscellaneous,Traffic
+521,incidentTypePlannedEvent,Planned Event
+522,incidentTypePolice,Police
+523,incidentTypeProhibitedLeftTurnCamera,Safety Camera
+524,incidentTypeProhibitedRightTurnCamera,Safety Camera
+525,incidentTypeRoadClosure,Road Closure
+526,incidentTypeRoadHazard,Road Hazard
+527,incidentTypeScheduledConstruction,Scheduled Construction
+528,incidentTypeSpeedCamera,Safety Camera
+529,incidentTypeSpeedTrap,Speed Trap
+530,incidentTypeTrafficCamera,Safety Camera
+531,incidentTypeWeather,Weather
+532,incrAbortPopUp,Your map update is taking longer than expected. Please visit the OnStar website to download the latest version. Continue update?
+533,incrBandwidth,The download size is approximately %1$sMB. Data rates and/or overage fees may apply. Continue?
+534,incrDataApplied,Your local map content is up to date.
+535,incrDataUpToData,Your local map content is up to date.
+536,incrDataUpdateInProcess,Map Update in Progress: %1$s%%
+537,incrDataUpdateIsAvailable,New local map content is available.
+538,incrDataUpdateIssue,Update Issue?
+539,incrDataUpdateNeedOtherSubscription,Unavailable with current %1$s Connected Navigation service
+540,incrDataUpdateNeedSubscription,Available with Connected Navigation service
+541,incrFail,Map Update Failed
+542,incrNewUpdateAvailable,New Map Available
+543,incrOutOfSpace,Your memory disk is full or damaged. Please contact your local dealer for help.
+544,incrPrepareFail,Could not update map. Please refer to the owner\'s portal website for more information. You can also contact customer support or your local dealer for help.
+545,incrRenewSubscriptionFromSettings,You can renew your subscription from Settings.
+546,incrRenewSubscriptionMessage,Renew your subscription at Collection.
+547,incrRenewSubscriptionMessageNotCadillac,Renew your subscription at Shop.
+548,incrRestartToComplete,Turn engine off and then back on to complete the update.
+549,incrRollbackDescription,Having issues with Map Content? Roll back to the previous version.
+550,incrRollbackPreviousContent,Rollback
+551,incrSendDiagnostics,Send Diagnostics
+552,incrSendDiagnosticsDescription,This will send diagnostic information to help resolve map content issues.
+553,incrSettings,Settings
+554,incrSubscriptionExpired,Your NavConnect Plan has expired. Would you like to renew now?
+555,incrToastFind,Find your map update options in Settings.
+556,incrUpdateMapData,Update your local map?
+557,initializingProfileOnSplash,Initializing Profile
+558,intersectionItemLabel,Intersection
+559,intersectionSearchFirstHint,Street Name
+560,intersectionSearchSecondHint,Crossroad
+561,isbnLabel,ISBN:
+562,jumpButtonText,Tap to Adjust Current Road
+563,keyAddressLabelCustomized,Custom
+564,keyAddressLabelDaycare,Daycare
+565,keyAddressLabelGym,Gym
+566,keyAddressLabelHint,Enter a Name (max 10 characters)
+567,keyAddressLabelHome,Home
+568,keyAddressLabelSchool,School
+569,keyAddressLabelWork,Work
+570,keyAddressSearchHint,Keyword or Address
+571,keyAddressSearchResultTitle,Select an Address
+572,keyRecentDestinations,Recent Destinations
+573,keyRecentSearch,Search History
+574,keyboardLocked,Keyboard locked while driving
+575,labelDataAnonymous,Collect Anonymized Data
+576,labelDataWithProfileInfo,Collect Data with Profile Information
+577,labelDestCardFrequent,All Frequent Destinations
+578,labelDestCardNone,Do Not Show Any Card on Map
+579,labelDestCardOnlyKey,Only the Key Destinations Below
+580,labelFuelPreferencesMid,Mid-Grade
+581,labelFuelPreferencesPremium,Premium
+582,labelFuelPreferencesRegular,Regular
+583,labelResultsFuelMid,Mid-Grade: %1$s
+584,labelResultsFuelPremium,Premium: %1$s
+585,labelResultsFuelRegular,Regular: %1$s
+586,labelResultsNoPriceData,No Price Data
+587,largeMapUpdateAvailable,Large Map Update Available
+588,lastParkedLabel,Last Parked Location
+589,leisureItemLabel,Leisure
+590,leisureScreenTitle,Leisure
+591,listItemIndexFormat,%s. 
+592,listView,List View
+593,loadingMapsOnSplash,Loading Maps
+594,localMapUpdateFailed,New Local Map Update Failed
+595,localTransitStopItemLabel,Local Transit Stations
+596,locationDisabled,Disabled: Location Settings Off
+597,lockSDCardContent,"Once initialized, this Nav SD card can only be used for navigation in this vehicle."
+598,lockSDCardTitle,SD Card Message
+599,lodgingItemLabel,Lodging
+600,lodgingScreenTitle,Lodging
+601,lodgingSubItemLabel,All Lodging
+602,longDistanceBusStationItemLabel,Long Distance Bus Stations
+604,manageFeaturesTitle,Manage Features
+605,manageHistoryLabel,Manage History
+606,manageHistoryTitle,Manage History
+607,mapColorSummary,Select Auto to automatically change modes based on lighting conditions.
+608,mapControl,Map Control
+609,mapControlInstructionBack,Back
+610,mapControlInstructionDismiss,Dismiss
+611,mapControlInstructionExit,Exit
+612,mapControlInstructionPan,Pan
+613,mapControlInstructionPin,Pin
+614,mapControlInstructionRecenter,Recenter
+615,mapControlInstructionSelect,Select
+616,mapControlInstructionSwitch,Switch
+617,mapControlInstructionZoom,Zoom
+618,mapPreferencesLabel,Map Preferences
+619,mapPreferencesTitle,Map Preferences
+620,mapSupplierLabel,Map Supplier:
+621,mapTrafficCameraTitle,Safety Camera
+622,mapTrafficIncidentTitle,Traffic Incident
+623,mapUpdateFailedGenericErrorContactDealer,General failure. See Owner’s Manual for more detail or visit your dealer.
+624,mapUpdateFailedSDCardErrorContactDealer,Your Nav SD card is full or damaged. See Owner’s Manual for more details or visit your dealer.
+625,mapView,Map View
+626,massageParlorsItemLabel,Massages
+627,maxDrivingRange,Max Driving Range: Up to %1$s
+628,maxFavoriteReachedMessage,Please remove a favorite before adding a new one
+629,maxFavoriteReachedTitle,Maximum Favorites Reached
+630,maxWayPointReached,Please delete a destination along your route before adding a new one.
+631,maxWayPointReachedTitle,Maximum Destinations Reached
+632,medicalServiceItemLabel,Clinics
+633,messageLocationMasking,"Navigation will switch to offline mode. You will be unable to use Traffic, Smart Search, Online Routing and Predictive Navigation capabilities."
+634,messageRestartToDismiss,Please restart Nav app to dismiss error.
+635,messageSubscriptionExpireWithin3Days,"Without Connected Navigation service, you will lose Traffic, Smart Search/Routing, and Predictive Navigation capabilities."
+636,messageTotalDistanceExceed,Total linear distance of the entire trip cannot exceed %1$s.
+637,movieItemLabel,Movies
+638,multipleAddressSaved,%1$s and %2$s Address Saved
+639,museumItemLabel,Museums
+640,nameAlreadyTaken,Name Taken
+641,narrowedLaneAhead,Narrowed Lane Ahead
+642,navActionFailedLabel,Action Failed
+643,navAddLabelTextField,Add a Label (Max 10 characters)
+644,navChangesSavedToast,Changes Saved
+645,navConnectPlanExpire,Your  %1$s Connected Navigation Plan has expired.\nPlease renew your plan through %1$s to update your map.
+646,navConnectServiceWillExpireInThreeDays,Navigation Service Will Expire in 3 Days
+647,navConnectServiceWillExpireOnVarRenew,Your Connected Navigation Plan will expire within %1$s days.\nRenew subscription?
+648,navConnectServiceWillExpireSoon,Navigation Service Will Expire Soon
+649,navConnectServiceWillExpired,Navigation Service Has Expired
+650,navConnectorTypesEV,Connector Types
+652,navConnectorTypesSelectionEV,Select your EV charging connector types.
+653,navDestinationArrived,Arrived at Destination
+654,navDestinationNearby,Destination Nearby
+655,navDragMapUpdateAddress,Drag map to update address
+656,navDynamicDistance,%1$s mi
+657,navExitNavButton,Exit Nav
+658,navFasterBubble,%1$s min\nFaster
+659,navFeatureUnavailableInGuidanceToast,Feature Not Available in Guidance Mode
+660,navFiltersAppliedMsg,Try to ignore your filter and search all %1$s.
+661,navFiltersAppliedMsgEV,Try removing the filters to see more results
+662,navHiddenDestinationNotice,This location will not be shown again as a Smart Destination. You can\'t undo this action.
+663,navHideButton,Hide
+664,navHidePermanaentlyLabel,Hide Permanently?
+665,navHidePermanentlyText,Hide Permanently
+666,navHighwayModeTitle,Highway Mode
+667,navIgnoreBtn,Ignore
+668,navLabelButton,Label
+669,navLabelTakenToast,Label taken. Please choose another.
+670,navLimitNumberRecordings,Cannot record more than %1$s routes. Delete old recordings before creating new ones.
+671,navLongHoldEdit,Long hold to edit card. 
+672,navLowChargeAlertEV,Your vehicle is running out of charge. Please visit a nearby charging station.
+673,navMenu,Navigation Menu
+674,navMovingMapEndTrip,Cancel
+675,navNoChargingNetworkEV,No charging network available.
+677,navOnStar,OnStar
+678,navRearSeatRequestAcceptRadioButton,Accept
+679,navRearSeatRequestAlwaysIgnoreRadioButton,Always Ignore
+680,navRearSeatRequestsTitle,Rear Seat Requests
+681,navRemoveFiltersEV,Remove Filters
+682,navRequestIgnoredToast,Request Ignored
+683,navRequestReceivedRearIgnoreButton,Ignore
+684,navRequestReceivedRearSeatMessage,Request Received from Rear Seat
+685,navResetBtn,Reset
+686,navRoutePlanningGettingRoute,Calculating Routes
+687,navSDCardFullRecStopMessage,Nav SD card full. Recording Stopped.
+688,navSaveChangesLabel,Save Changes?
+689,navSaveChangesPopup,Save changes to Smart Destination?
+690,navSelectAlwaysIgnoreMessage,Select Always Ignore to block addresses received from the rear seat.
+691,navSetUpHomeCard,Set Up Home
+692,navSetUpHomeOption,Set Up Home
+693,navSetUpWorkCard,Set Up Work
+694,navSimilarTimeBubble,Similar time
+695,navSlowerBubble,%1$s min\nSlower
+696,navSmartDestinationsReady,Your Smart Destinations are ready!
+697,navSplash,Navigation
+698,navSwipeDismissCard,Swipe right to dismiss card.
+699,navSwipeMinimizeCard,Swipe down to minimize  card
+701,navTAPTCDetails,Tap to see details
+702,navTandCLocationBasedServiceButton,Telenav LBS Terms of Use
+703,navTandCLocationBasedServiceMessage,Navigation requires your vehicle location. Use of navigation is subject to Telenav\'s end user license and Location-Based Services terms. Additional user terms may apply. Please accept the following to use Navigation:
+704,navTapCardAlternateRoutes,Tap card to get route overview.
+705,navTapCardRouteOverviewPDC,Tap card to get route overview
+706,navToastCountryBorder,Country Border Crossings on Route
+707,navToastCountryBorderAhead,Border Crossing Ahead
+708,navToastDestinationRemoved,Destination %1$s Removed
+709,navToastFerry,Ferry Crossings on Route
+710,navToastFerryAhead,Ferries Ahead
+711,navToastNoFavoriteYet,You don\'t have any Favorites yet.
+712,navToastNoRecentYet,You don\'t have any Recents yet.
+713,navToastPedestrianRestrictedRoadAhead,Pedestrian Restricted Roads Ahead
+714,navToastRerouting,Rerouting
+715,navToastResumingTrip,Resuming Trip
+716,navToastSeasonallyRestrictedRoad,Seasonally Restricted Roads on Route
+717,navToastTimeRestrictedRoad,Time-Restricted Roads on Route
+718,navToastTripCancelled,Trip Cancelled
+719,navToastUnpavedRoad,Unpaved Roads on Route
+720,navToastUnpavedRoadAhead,Unpaved Roads Ahead
+721,navTollboothAhead,Tollbooth Ahead
+722,navTripStatsNotice,Trip Stats
+723,navTurnImmediatelyNotice,Immediately
+724,navUndoButtonRSI,Undo
+725,navUpdateButton,Update
+726,navViewPredictiveTutorial,You can view the tutorial from Settings > Predictive Navigation
+727,navVoiceMuted,Navigation Voice Muted
+728,navVoiceUnmuted,Navigation Voice Unmuted
+730,navWaypointArrived,Arrived at %1$s
+731,navYouveArrivedNotice,You\'ve arrived
+732,neverAskAgainMessage,Never ask again
+733,neverCheckForBetterRoute,Never Search for Better Routes
+734,newDestinationAdded,Destination added to the route
+735,newDestinationStarted,New destination started
+736,newLocalMapUpdateAvailable,New Local Map Update Available
+737,nightClubItemLabel,Night Clubs
+738,nighttimeCostVar,Nighttime Cost:
+739,nighttimePriceVar,Nighttime Price:
+740,noExitsNearby,No exits nearby.
+741,noFavoritesToDeleted,No favorites to be deleted.
+742,noGPSSearchingLocationMessage,No GPS - Searching Location
+743,noMajorTrafficEventsAtThisTime,No Major Traffic Events at This Time
+744,noMatchFoundForVar,"No matches found for \""%1$s\""."
+745,noNearbyExits,No Exits Nearby.
+746,noRecentToDeleted,No recent destinations to be deleted.
+747,noRouteAvailable,No Routes Available
+748,noRouteAvailableToDestinationVar,No Routes Available to %1$s
+749,noRouteAvailableToDestinationsVars,No Routes Available to %1$s and %2$s
+750,noSavedRouteYet,You haven\'t saved any routes yet.
+751,noSearchHistoryToDeleted,No search history to be deleted.
+752,noTrafficDataMessage,No Traffic Data
+753,noTrafficEventAlongRoute,No Traffic Events Along Route.
+754,noTrafficEventAtThisTime,No Traffic Events at This Time.
+755,notActivatedMessage,Navigation has not been activated successfully. Please try again later.
+756,notActivatedTitle,Activation Failed
+757,not_register_warning_text,"Navigation is not registered, please contact customer service for more information."
+758,onPublicParkingLotItemLabel,Public Parking Lot
+759,onStarDynamic,OnStar
+760,onStreetParkingItemLabel,On-Street Parking
+761,oneBoxSearchHint,Keyword or Address
+762,oneBoxSearchHintWithKeyBoard,Keyword or Address
+763,oneBoxSearchResultTitle,Results
+765,optimizingSearchOnSplash,Optimizing Search
+766,optionAvoidOnRoute,Avoid on Route
+767,optionNavigationPreferences,Navigation Preferences
+768,optionTrafficInfo,Traffic Info
+769,ordinary_diesel,ordinary diesel
+770,otherEntertainmentItemLabel,Other Entertainment
+771,otherSportsItemLabel,Other Sports
+772,parkAndRideItemLabel,Park-and-Rides
+773,parkItemLabel,Parks
+774,parkingDetailSpotFewOpen,Few Spots Open
+775,parkingDetailSpotManyOpen,Many Spots Open
+776,parkingDetailSpotNoData,No Spot Info
+777,parkingDetailSpotNoOpen,No Spots Open
+778,parkingGarageItemLabel,Parking Garages
+779,parkingItemLabel,Parking
+780,parkingListSpotFewOpen,Few Spots Open
+781,parkingListSpotManyOpen,Many Spots Open
+782,parkingListSpotNoData,No Spot Info
+783,parkingListSpotNoOpen,No Spots Open
+784,parkingLotItemLabel,Parking Lots
+785,parkingPinSpotFewOpen,Few Spots Open
+786,parkingPinSpotManyOpen,Many Spots Open
+787,parkingPinSpotNoData,No Spot Info
+788,parkingPinSpotNoOpen,No Spots Open
+789,parkingScreenTitle,Parking
+790,parkingSubItemLabel,All Parking
+791,pastryShopItemLabel,Pastry Shops
+792,perDayVar,Per Day:
+793,perHourVar,Per Hour:
+794,performingArtsItemLabel,Performing Arts
+795,personalSortResultsMessage,"Best match sort will consider prominence of a location in addition to the distance. With connectivity, it will personalize results based on your search history."
+796,personalSortResultsMessageNoBackOffice,Best match sort will consider prominence of a location in addition to the distance.
+797,personalizingNavigationExperienceOnSplash,Personalizing Navigation Experience
+798,pharmacyItemLabel,Pharmacies
+799,phoneNumber,Phone Number
+800,pizzaItemLabel,Pizza
+801,placeSearchAroundMe,Nearby
+802,placeSearchFirstHint,Point of Interest
+803,placeSearchNear,Near:
+804,placenameSearchFirstHint,Place Name
+805,placesItemLabel,Places
+806,poiBankATMs,Bank/ATMs
+807,poiBankATMsIcon,Banks/ATMs
+808,poiBankATMsTitle,Banks/ATMs
+809,poiConvenienceStores,Convenience Stores
+810,poiDrink,Drinks
+811,poiFastFood,Fast Food
+812,poiGMDealerships,GM Dealerships
+813,poiHospitals,Hospitals
+814,poiKTVItemLabel,KTVs
+815,poiOnMapLabelAtms,ATMs
+816,poiOnMapLabelCoffee,Coffee
+817,poiOnMapLabelEVChargers,EV Chargers
+818,poiOnMapLabelFastFood,Fast Food
+819,poiOnMapLabelFuel,Fuel
+820,poiOnMapLabelGroceries,Groceries
+821,poiOnMapLabelLodging,Lodging
+822,poiOnMapLabelParking,Parking
+823,poiOnMapLabelRestaurants,Restaurants
+824,poiPharmacies,Pharmacies
+825,poiRestaurants,Restaurants
+826,poiSubwayStations,Subway Stations
+827,poiSupermarkets,Supermarkets
+828,policeStationItemLabel,Police Stations
+829,popDiagnosticRollbackBusy,Please wait until the update process is complete.
+830,popDiagnosticRollbackFail,Rollback Failed
+831,popDiagnosticRollbackNoVersion,There is no previous version in your system.
+832,popDiagnosticSendSuccess,Diagnostics Sent
+833,popDisableDRTitle,Disable Dead Reckoning
+834,popEnableDRTitle,Enable Dead Reckoning
+835,popEnableFeatureMessage,This will be applied after Navigation restarts next time
+836,popFuelGradeMid,Mid-Grade
+837,popFuelGradePremium,Premium
+838,popFuelGradeRegular,Regular
+839,popGroupDrivingAcknowledged,"By clicking Accept, you acknowledge that you have read and accepted Telenav’s Team Travel Agreement."
+840,popHintLearnMore,"To learn more, please see our %1$s"
+841,popLBSAcknowledged,"By clicking Accept and Continue, you acknowledge that you have read and accepted Telenav’s Location-Based Service Terms of Use."
+842,popLocationMaskingNew,"Navigation will switch to offline mode. You will be unable to use Traffic, Online Search, Active Routing and Smart Destination Card capabilities."
+843,popMessageEnableAutoLearning,Predictive Navigation learns your preferences by remembering where you\'ve been. It uses your location and navigation history to personalize routes and results. Learn more in the Telenav Privacy Statement.
+844,popMessagePredictiveAddress,Current location at: %1$s
+845,popMessagePrivacyStatement,Telenav Privacy Statement
+846,popNeedTurnOnPersonalizedNav,You need to turn on Personalized Navigation first in order to see frequent destinations. Turn it on now?
+847,popPrivacyAcknowledged,"By clicking Continue, you acknowledge Telenav’s Privacy Statement."
+848,popRenewByCallrNew,Renew your subscription by calling an Advisor.
+849,popRenewSubscriptionNew,Renew subscription?
+850,popTermsAcknowledged,"By clicking Accept and Continue, you acknowledge that you have read and accepted Telenav’s Terms and Conditions."
+851,popTermsUpdated,We have major updates on our EULA to provide you better user experience.
+852,popTitleAreYouSure,Are You Sure?
+853,popTitleChooseFuelGrade,Choose Preferred Fuel Grade
+854,popTitleEnableAutoLearning,Enable Predictive Navigation
+855,popTitleEnablePersonalizedNav,Enable Personalized Navigation?
+856,popTitleLBS,LBS Terms of Use
+857,popTitlePredictiveAddress,Set as My Place?
+858,popTitlePrivacy,Privacy Statement
+859,popTitleTerms,Terms and Conditions
+860,popWithoutConnectNavNew,"Without Connected Navigation service, you will lose Traffic, Online Search, Active Routing and Smart Destination Card capabilities."
+861,popupCannotAddChargers,We cannot automatically add EV chargers to this trip.
+862,popupInsufficientChargeWaypoint,You may need at least %1$s charge to reach your next destination.
+863,popupNoChargingNearDest,No EV charging stations near destination.
+864,popupNotEnoughCharge,You may have insufficient charge to reach your destination.
+865,popupPreviousChargersRemoved,(Previous chargers will be removed)
+866,popupRangeRemaining,Your vehicle has about %1$s of range remaining.
+867,popupRenewMapPlan,Please renew the subscription to update your map.
+868,popupTitleInsufficentCharge,Insufficient Charge
+869,popupTitleLowBattery,Low Battery
+870,popupTitleLowCharge,Low Charge
+871,popupTitleMapPlanExpired,Map Update Subscription Expired
+872,preferredRouteLabel,Preferred Route
+873,preferredRoutePersonalized,Preferred
+874,preferredRouteTitle,Preferred Route
+875,publishingDateLabel,Publishing Date:
+876,publishingHouseLabel,Publishing House:
+877,railwayStationItemLabel,Railway Stations
+878,rangeProjection,Range Projection
+879,recentEditScreenDeleteMessageText,Address deleted
+880,recentEditScreenTitle,Delete Recents
+881,recentItemLabel,Recents
+882,recentScreenTitle,Recents
+883,recenterButtonLabel,Recenter
+884,recordDateAndTime,%1$s at %2$s
+885,recordRouteDistance,Distance: About %1$s
+886,recordRouteDistanceSave,%1$s/n %2$s at %3$s\nDistance:  %4$s\nDo you want to save?
+887,recordedRouteVarDeleted,%1$s Deleted
+888,recordedRouteVarSaved,%1$s Saved
+889,recordingStopped,Recording Paused
+890,recreationCenterItemLabel,Recreation Areas
+891,regionUnavailableMessage,"Navigation is not available in your region, please contact customer service for more information."
+892,rememberThisSetting,Remember This Setting
+893,reminderCreatingProfile,Make your driving experience unique by creating a profile.
+894,reminderPersonalizedNav,Turn on Personalized Navigation to unlock cool features!
+895,reminderSetUpEV,Set up Charging Station Advisor to find the best chargers that fit your needs.
+896,removeWayPointText,Are you sure you want to remove %1$s from your trip?
+897,removeWayPointTitle,Remove Destination
+898,renameFavoriteTitle,Rename Favorite
+899,renameLabel,Rename Label
+900,renameYourRecordedRoute,Rename your recorded route.
+901,renewSubscriptionLabel,Renew Subscription
+902,renewSubscriptionOnStar,Renew your subscription through %1$s.
+903,renewSubscriptionWarning,"Without Connected Navigation service, you will lose Traffic, Smart Search/Routing, and Predictive Navigation capabilities.\nRenew subscription?"
+904,renewToUpdateMap,Please renew your plan through %1$s to update your map.
+905,renewYourSubscriptionByCall,"Without Connected Navigation service, you will lose Traffic, Smart Search/Routing, and Predictive Navigation capabilities.\nRenew your subscription by calling an Advisor?"
+906,requiresFTUEMessage,Navigation use requires you to accept the following agreements.  You can only view the details and accept when stopped.
+907,rerouteViaVars,%1$s in %2$s on %3$s (to %4$s)\nReroute via %5$s.
+908,reroutingViaNotification,Rerouting via %1$s
+909,resetGDAPopUpMessage,"After applying a reset, Team Travel feature will be unavailable and you will leave your team if you are in a team."
+910,restAreaItemLabel,Rest Areas
+911,restAreaScreenTitle,Rest Areas
+912,restartNavSystemNotice,"You must restart Nav before new subscription takes effect. Otherwise,  subscription won\'t be available until the next time you start your engine.n\Restart now?"
+913,restartingNavigationSystem,Restarting Navigation System
+914,restaurantItemLabel,Restaurants
+915,restrictedRoadOnRoute,Restricted Road on Route
+916,resumingTripOnSplash,Resuming Trip
+917,roadCandidatesDialogTitle,Which Road Are You On?
+918,roadClosed,%1$s Closed
+919,roadIsClosed,Road Currently Closed
+920,roadSafetyAlertPreferencesOneWayRoad,One-Way Road
+921,roadSafetyAlertPreferencesPotentialAccidentArea,Potential Accident Area
+922,roadSafetyAlertPreferencesRestrictedRoad,Restricted Road
+923,roadSafetyAlertPreferencesRestrictedTurnsOnRoad,Restricted Turns on Road
+924,roadSafetyAlertPreferencesRoadMerges,Road Merges
+925,roadSafetyAlertPreferencesRoadSafety,Road Safety
+926,roadSafetyAlertPreferencesRockSlideArea,Rock Slide Area
+927,roadSafetyAlertPreferencesScreenTitle,Road Safety Alerts
+928,roadSafetyAlertPreferencesSharpTurns,Sharp Turns
+929,roadSafetyAlertPreferencesSlipperyRoad,Slippery Road
+930,roadSafetyAlertPreferencesTunnel,Tunnel
+931,roadSafetyAlertPreferencesWindingRoad,Winding Road
+932,roadTracing,Route Tracing
+933,roadTracingDescription,Route Tracing helps you record your off-road route and trace back to the starting point.
+934,roadTypeBridgeText,Bridge
+935,roadTypeCarpoolLaneText,Carpool Lane
+936,roadTypeCyclewayText,Roundabout
+937,roadTypeFerryText,Ferry
+938,roadTypeLowSpeedRoadText,Low Speed Road
+939,roadTypePrivateRoadText,Private Road
+940,roadTypeRampText,Ramp
+941,roadTypeServiceText,Service Area
+942,roadTypeTunnelText,Tunnel
+943,roadTypeUnderpassText,Underpass
+944,roadTypeWalkWayText,Walkway
+945,rollbackDialogMessage,Rollback process requires you to restart the navigation app.
+946,rollbackToastMessage,Your local map has been rolled back to the previous version.
+947,routeListExitTitle,Exit %1$s
+948,routeListTitle,Directions
+949,routeOptionTitle,Avoid on Route
+950,routeOptionTopBarTitle,Routes
+951,routeOptionsArrival,Arrival
+952,routeOptionsDistance,Distance
+953,routeOptionsEco,Eco
+954,routeOptionsFee,Fee
+955,routeOptionsTollFree,Toll Free
+956,routePlanningRouteInfo,%1$s via %2$s
+957,routePreferencesLabel,Route Preferences
+958,routePreferencesTitle,Route Preferences
+959,routeRecordingStarted,Recording Started
+960,routeStyleEcoFriendly,(Eco-Friendly)
+961,routeStyleFastest,(Fastest)
+962,routeStyleHighway,(Highway)
+963,routeStyleSummary,Choose your preferred route type when starting navigation.
+964,routeStyleTollFree,(Toll Free)
+965,routeTracing,Route Tracing
+966,routeTypeDescription,Select up to Two Route Types
+967,routingToNearestPointToDestination,Routing to point closest to your destination.
+968,sdcardNotValidForVehicleErrorMessage,Map data is not valid in this vehicle for navigation. Please consult your dealer for more information.
+969,searchDidYouMeanTitle,Did you mean?
+970,searchEmptyViewNotificationLine1,"No matches found for \""%1$s\"""
+971,searchEmptyViewNotificationLine2,%1$s.
+972,searchEmptyViewTitle,Results
+973,searchNear,%1$s near %2$s
+974,searchPassengerNotPresentHint,Keyboard Locked - Tap Here to Search by Voice
+975,searchResultSegmentAlongRoute,Along Route
+976,searchResultSegmentNearDestination,Near Destination
+977,searchSortFilterByPrice,Price
+978,selectAtLeastOneRouteType,Select at Least One Route Type
+979,settingSuperCruise,Super Cruise
+980,setting_autoReroute,Auto Reroute
+981,setting_clearFavorite,Clear Favorites
+982,setting_destinationCard,Destination Card
+983,setting_evSettings,EV Preferences 
+984,setting_favoritesCleared,Favorites Cleared
+985,setting_favoritesRestored,Favorites Restored
+986,setting_featureDR,Dead Reckoning
+987,setting_mapDataVersion,Map Data Version
+988,setting_moreSettings,More Settings
+989,shoppingCenterItemLabel,Shopping Centers
+990,shoppingItemLabel,Shopping
+991,shoppingLifeIcon,Shopping/Life
+992,shoppingLifeTitle,Shopping/Life
+993,shoppingScreenTitle,Shopping
+994,shortestTitle,Shortest
+995,showDestinationCardToggle,Show Destination Card on Map
+996,showMyPlacesToggle,Automatically show My Places on startup
+997,showTerrain,Show Terrain
+998,showTerrainIn3D,Show Terrain in 3D
+999,showTollFreeRouteIfAvailable,Show Toll Free Route if Available
+1000,showTrafficOnMap,Show Traffic on Map
+1001,show_permission,Show Permission
+1002,show_permissions,Show Permissions
+1003,significantTrafficDelayRerouteVars,"Significant traffic delay on usual route to %1$s.\nReroute via %2$s, save %3$s min."
+1004,skiResortItemLabel,Ski Resorts
+1005,skipWayPoint,Drive to
+1006,snacksItemLabel,Snacks/Beverages
+1007,soccerClubItemLabel,Soccer Clubs
+1008,sortBestMatch,Best Match
+1009,sortDistance,Distance
+1010,sortKeywordFiltering,Keyword Filtering
+1011,sortRelevance,Relevance
+1012,sortResults,Sort by
+1014,speetLimitAlert,Speed Limit Alerts
+1015,splashTip1,<b>Caution:</b> Do not input data or queries while driving.
+1016,splashTip2,You assume all risks associated with the use of this product.
+1017,sportCenterItemLabel,Sports Centers
+1018,starClassHotels,Star Class Hotels
+1019,subContent_requestPermissions,"Navigation also requires permission to access your Location, Phone , and Contacts."
+1020,summaryHomeAndWorkSetting,None Set
+1021,supermarketsItemLabel,Supermarkets
+1022,swimmingPoolItemLabel,Swimming Pools
+1023,tabResultAlongRoute,Along Route
+1024,tabResultNearBy,Nearby
+1025,tabResultNearDestination,Near Destination
+1026,tacAccept,Accept
+1027,tacDecline,Decline
+1028,tacFirstHint,Navigation requires your vehicle location. Use of navigation is subject to Telenav\'s end user license and a privacy statement. Additional user terms may apply. Please accept the following to use Navigation:
+1029,tacMustAcceptContent,You must accept all agreements in order to use navigation.
+1030,tacMustAcceptTitle,Acceptance of Terms
+1031,tacPrivacy,Telenav Privacy Statement
+1032,tacResetButtonText,Reset
+1033,tacResetDialogContent,"After applying a reset, Navigation will be unavailable. If you want to use Navigation again, please accept our Terms and Conditions."
+1034,tacResetDialogTitle,Reset Terms and Conditions
+1035,tacTac,Telenav Terms and Conditions
+1036,tacTitle,Telenav Agreements
+1037,tacView,View
+1038,tapChargerPin,Tap a EV charger pin to see more details.
+1039,tapToEnterKeyword,Tap to enter keyword
+1040,tapToSeeAdditionalResults,Tap Search to see additional results.
+1041,tapToTrace,Tap to Trace
+1042,teaHouseItemLabel,Tea Houses
+1043,teamCreateProgressMessage,Creating new team …
+1044,teamDismiss,Dismiss
+1045,teamDismissTeamFailed,Failed to dismiss team
+1046,teamDismissTime,New Dismiss Time: %1$s
+1047,teamDismissTitle,Dismiss Time
+1048,teamDismissedTeamSuccessMessage,Your team is dismissed
+1049,teamEditNickName,Edit Nick Name
+1050,teamEditTeamName,Edit Team Name
+1051,teamGroupDriving,Team Travel
+1052,teamIsFull,The team is full
+1053,teamJoinProgressMessage,Joining the team …
+1054,teamLeave,Leave
+1055,teamLeaveTeamFailed,Failed to leave team
+1056,teamLeavedTeamSuccess,You\'ve left %1$s
+1057,teamRefreshPinCodeFailed,Failed to refresh PIN
+1058,teamRoutePlanProgressMessage,Calculating Routes …
+1059,teamSettingTitle,Team Settings
+1060,teamTeamWayPointRemoved,Team Waypoint Removed: %1$s
+1061,teamTraveEditDismissTimeFailed,Failed to change dismiss time
+1062,teamTraveEditNickNameFailed,Failed to change nickname
+1063,teamTraveEditTeamNameFailed,Failed to change team name
+1064,teamTraveTokenExpired,"Login session has expired, please log in again."
+1065,teamTravelAddNew,Add New
+1066,teamTravelCreate,Create
+1067,teamTravelCreateNewTeam,Create New Team
+1068,teamTravelCreateTeamFailed,Failed to create new team
+1069,teamTravelCreateTeamSuccess,New team created
+1070,teamTravelDefaultTeamName,MG Team
+1071,teamTravelDismissTeam,Dismiss Team
+1072,teamTravelDismissTeamMessage,All members will be removed. Are you sure you want to dismiss the team?
+1073,teamTravelExtendFiveDays,+5 days
+1074,teamTravelExtendOneDay,+1 day
+1075,teamTravelExtendTenDays,+10 days
+1076,teamTravelExtendThirtyDays,+30 days
+1077,teamTravelFailedToSendTeamTrip,Failed to send team trip
+1078,teamTravelInputPINCode,Input PIN code
+1079,teamTravelJoin,Join
+1080,teamTravelJoinFail,Team doesn\’t exist or wrong PIN code.
+1081,teamTravelJoinSuccess,"""You\'ve joined %1$s"""
+1082,teamTravelJoinTeam,Join a Team
+1083,teamTravelLastJoined,Last Joined
+1084,teamTravelLeaveTeam,Leave Team
+1085,teamTravelLeaveTeamMessage,Location sharing will be stoped after you leave. Are you sure you want to leave the team?
+1086,teamTravelMemberBeenRemovedMessage,You\'ve been removed from %1$s
+1087,teamTravelMembers,Members
+1088,teamTravelMyNickName,My Nickname
+1089,teamTravelNeedLoginMessage,You need to sign in your MG account to use this feature
+1090,teamTravelNeedLoginTitle,MG account not signed in
+1091,teamTravelNewTripReceived,New Trip Received
+1092,teamTravelNoNetwork,"No network, check your connection"
+1093,teamTravelNoTeamTripYet,No team trip yet
+1094,teamTravelOnlineInfo,Members: %1$d/%2$d
+1095,teamTravelPINCode,PIN: %1$s
+1096,teamTravelRejoinNow,Rejoin
+1097,teamTravelRemoveDestinationMessage,Are you sure you want to remove %1$s from the trip?
+1098,teamTravelRemoveMember,Remove Member
+1099,teamTravelRemoveMemberFailedMessage,Failed to remove team member
+1100,teamTravelRemoveMemberMessage,Are you sure you want to remove %1$s from this team?
+1101,teamTravelSend,Send
+1102,teamTravelSendToTeamMessage,Are you sure you want to send the trip to your team?
+1103,teamTravelSendToTeamTitle,Send to Team
+1104,teamTravelSetAsOwner,Set as Leader
+1105,teamTravelSetAsOwnerFailedMessage,Failed to set team Leader
+1106,teamTravelSetAsOwnerMessage,Are you sure you want to set %1$s as leader of this team?
+1107,teamTravelSetTeamOwner,Set Team Leader
+1108,teamTravelSetupTeamTrip,Setup Team Trip
+1109,teamTravelShowMembersLocationsOnMap,Show member location on map
+1110,teamTravelStart,Start
+1111,teamTravelStartTripMessage,Start new trip will cause your current trip to end. Are you sure you want to start a new trip?
+1112,teamTravelStartTripTitle,Start Trip
+1113,teamTravelTeamDismissTime,Dismiss Time
+1114,teamTravelTeamName,Team Name
+1115,teamTravelTripSent,Team trip sent
+1116,teamTravelTripTitle,Team Trip
+1117,teamTripDestinationSet,Team Destination Set: %1$s
+1118,teamTripMultiWayPointsInfo,Including %1$d waypoints
+1119,teamTripNotSent,Unsent
+1120,teamTripOneWayPointInfo,Including %1$d waypoint
+1121,teamTripOwnerChanged,Team Leader Changed
+1122,teamTripReview,View
+1123,teamTripReviewDismiss,Ignore(%1$d)
+1124,teamTripSentTime,Sent: %1$s
+1125,teamTripStartTrip,Start A New Trip
+1126,teamTripWaypointRemoved,Team Waypoint Removed: %1$s
+1127,teamTripWaypointSet,Team Waypoint Set: %1$s
+1128,teamYouAreNowTheOwnerOfTeam,You are now the leader of %1$s
+1129,tennisItemLabel,Tennis Courts
+1130,tertiaryLevelHospitalItemLabel,Tertiary Level Hospitals
+1131,timeAM,am
+1132,timePM,pm
+1133,tipExpirationDate,"All connected services will be unavailable by the end of the date above, including real time traffic, online search, online routing."
+1134,titleAboutPreference,About
+1135,titleAccessSDcard,Access and Input Data Permissions
+1136,titleActionFailed,Action Failed
+1137,titleArrivalScreen,Arrival
+1138,titleAutoLearning,Predictive Navigation
+1139,titleAutoLearningPreference,Predictive Navigation
+1140,titleAutoZoom,Auto Zoom
+1141,titleAutomaticMapUpdate,Automatic Map Update
+1142,titleAvoidCountryBorders,Country Borders
+1143,titleAvoidCurrentRoute,Avoid On Current Route
+1144,titleAvoidFerries,Ferries
+1145,titleAvoidHOVLanes,Carpool Lanes
+1146,titleAvoidHighway,Highways
+1147,titleAvoidTollRoads,Toll Roads
+1148,titleAvoidTunnels,Tunnels
+1149,titleAvoidUnpavedRoads,Unpaved Roads
+1150,titleBestMatch,Best Match
+1151,titleBuilding,3D Buildings
+1152,titleChargingBuffer,Charging Reserve Level
+1153,titleChargingNetworks,Charging Networks
+1154,titleChargingStop,Charging Stop
+1155,titleClearRecentDestinations,Clear Recent Destinations
+1156,titleClearRecentSearch,Clear Search History
+1157,titleContentAndAlertPreference,Alert Preferences
+1158,titleDestCardPreferences,Destination Card Preferences
+1159,titleDiagnostic,Map Update Repair
+1160,titleDistanceUnit,Distance Unit
+1161,titleDistanceUnitImperial,Imperial
+1162,titleDistanceUnitMetric,Metric
+1163,titleEVPreferences,EV Charging Preferences
+1164,titleEditDestinations,Edit Destinations
+1165,titleEntityDetailPhoneNumber,Phone:
+1166,titleEntityDetailPriceLevel,Average:
+1167,titleExpirationDate,Connected Services Expiration
+1168,titleFailedDriveToDestination,Could Not Drive to Destination
+1169,titleFilters,Filters
+1170,titleFuelPreferences,Fuel Grade Preferences
+1171,titleGeneralInaccuracy,General Inaccuracy
+1172,titleGroupDrivingAgreement,Team Travel Agreement
+1173,titleGroupDrivingReset,Reset Team Travel Agreement
+1174,titleHistoryManagerPreference,History
+1175,titleHomeAndWorkSetting,Set Up My Places
+1176,titleKeyAddressDetection,Set as My Place?
+1177,titleLandmark,3D Landmarks
+1178,titleLocationMasking,Location Masking On
+1179,titleMapColorAuto,Auto
+1180,titleMapColorDay,Day (Light)
+1181,titleMapColorNight,Night (Dark)
+1182,titleMapColorSetting,Map Colors
+1183,titleMapConfiguration,Map Configuration
+1184,titleMapOptions,Options
+1185,titleMapOrientationSetting,Map Orientation
+1186,titleMapUpdatesPreference,Map Updates
+1187,titleMapVersion,Map Data Version
+1188,titleMoreSettings,Settings
+1189,titleNavAppVersion,Navigation Version
+1190,titleNavReserveLevel,Navigation Reserve Level
+1191,titleNavigationPreferences,Routing Options
+1192,titleNavigationPrivacy,Navigation Privacy
+1193,titlePlayAlertApproachCamera,Speed Camera
+1194,titlePlayAlertApproachRailroad,Railroad Crossing
+1195,titlePlayAlertApproachSchool,School Zone
+1196,titlePrivacyStatement,Telenav Privacy Statement
+1197,titleRangeReserveLevel,Range Reserve Level
+1198,titleRemoveDestinationWaypoint,Remove Destination/Waypoint
+1199,titleRerouteAvoidTraffic,Auto-Reroute to Avoid Traffic
+1200,titleRollbackDialog,Rollback
+1201,titleRouteAvoidanceCategory,Avoid on Route
+1202,titleRouteOptions,Routes
+1203,titleRouteStyleCategory,Route Type
+1204,titleRouteStyleECO,Eco-Friendly
+1205,titleRouteStyleFastest,Fastest
+1206,titleRouteTypes,Route Types
+1207,titleSelectLabel,Select Place Name
+1208,titleSet2DHeadingUp,2D Heading Up
+1209,titleSet2DNorthUp,2D North Up
+1210,titleSet3DHeadingUp,3D Heading Up
+1211,titleShowMyPlacesBubble,Show My Places on Map
+1212,titleShowPOIsOnMap,Show on Map
+1213,titleShowTerrain,Terrain
+1214,titleSummary,Summary
+1215,titleTermAndConditions,Telenav Terms and Conditions
+1216,titleTrafficInformationScreen,Traffic Information
+1217,titleTrafficOff,Traffic Off
+1218,titleTrafficOn,Traffic On
+1219,titleTrafficOnMapSetting,Traffic
+1220,titleUpdateCompleteDialog,Map Successfully Updated
+1221,titleUserPreferences,Map and Navigation Settings
+1222,toMyPlace,To %1$s:
+1223,toastAddressSaved,Address Saved
+1224,toastAtLeastOneChargingNetwork,Select at Least One Charging Network
+1225,toastBetterRouteAvailable,Better Route Available
+1226,toastCalculatingRoutes,Calculating Routes
+1227,toastChargerUpdated,One or more chargers updated due to previous change.
+1228,toastContinueRecording,Continue Recording
+1229,toastCountryTownEnter,Entering %1$s
+1230,toastCountryTownExit,Exiting %1$s
+1231,toastFeatureUnavailableWhileDriving,Feature Unavailable While Driving
+1232,toastFindingChargers,Updating EV chargers for your trip…
+1233,toastInvalidCharacter,Invalid Character
+1234,toastLocationMaskingOff,Location Masking Off
+1235,toastMessageAvoidFailed,Could not avoid %1$s
+1236,toastMessageToFerry,Do you want to drive to a ferry nearby?
+1237,toastMsgCouldNotAvoidSelectedSegment,Could Not Avoid Selected Segment
+1238,toastMsgDestinationDeleted,Destination Deleted
+1239,toastMsgDestinationReordered,Destination List Reordered
+1240,toastMsgRecentAddressDeleted,Recent Address Deleted
+1241,toastMyPlaceRemoved,%1$s Address Removed
+1242,toastMyPlaceSaved,%1$s Address Saved
+1243,toastNoChargeStationFound,No charging stations within driving range found
+1244,toastNoDestination,You don\'t have any destinations yet.
+1245,toastNoEVFound,No EV chargers found along route.
+1246,toastNoEVFoundPart,No EV chargers found on part of the route.
+1247,toastNoMatchesForAlongRoute,"No matches found for \""%1$s\"" along route. Search Nearby for more results."
+1248,toastNoMatchesForNearBy,"No matches found for \""%1$s\"" nearby."
+1249,toastNoMatchesForNearDestination,"No matches found for \""%1$s\"" near destination."
+1250,toastPersonalizedNavOn,Personalized Navigation has been turned ON.
+1251,toastRecordedRouteSaved,Recorded route saved. Find it in the Route Tracing screen.
+1252,toastRenewMapPlanAdvisor,Renew your Map Update subscription by calling an Advisor.
+1253,toastRenewMapPlanCollection,Renew your Map Update subscription in the Collection.
+1254,toastRenewMapPlanShop,Renew your Map Update subscription in the Shop.
+1255,toastRenewSubscription,Renew your Connected Navigation subscription in the Collection.
+1256,toastRenewSubscriptionNotCadillac,Renew your Connected Navigation subscription in the Shop.
+1257,toastRouteOptionsMax,Maximum Two Route Types
+1258,toastRouteOptionsUncheck,Uncheck a selection and then check another
+1259,toastSystemBusy,The system is busy. Please try again later.
+1260,toastTooLongToAddCharger,Route too long to automatically add charging stops.
+1261,toastTracingRouteToVar,Tracing to %1$s
+1262,toastUnableToAddCharger,Unable to automatically add charging stops.
+1263,toastWithdrawSuccess,Agreement Withdraw
+1264,tollBoothItemLabel,Tollbooths
+1265,tollFeeMonetaryUnit,dollars
+1266,tollGateAlerts,Toll Gate Alerts
+1267,tollRoadApproachingTollbooth,Approaching Tollbooth. Toll Cost: %1$s.
+1268,tollRoadStartNavWithToll,Tollbooths on Route. Total Cost: %1$s.
+1269,tollRoadTotalCost,Tolls: %1$s
+1270,toolboothsOnRouteMessage,Tollbooths on Route
+1271,totalDistance,Total Distance:
+1272,totalDistanceLabel,Total Distance
+1273,touristAttracionItemLabel,Tourist Attractions
+1274,towingServiceItemLabel,Towing Services
+1275,trafficAlertPreferencesAccident,Accident
+1276,trafficAlertPreferencesCongestion,Congestion Alerts
+1277,trafficAlertPreferencesConstruction,Construction
+1278,trafficAlertPreferencesCountryTownEntry,Country Town Entry Alerts
+1279,trafficAlertPreferencesIncident,Incident
+1280,trafficCameraAlertPreferencesLaneRestrictionCamera,Lane Restriction Camera
+1281,trafficCameraAlertPreferencesRedLightCamera,Red Light Camera
+1282,trafficCameraAlertPreferencesSpeedCamera,Speed Camera
+1283,trafficCameraAlertPreferencesTrafficCamera,Traffic Camera
+1284,trafficCameraKR,%1$d avg
+1285,trafficEventAlerts,Traffic Event Alerts
+1286,trafficEventCrossStreetAt,At %1$s
+1287,trafficEventCrossStreetFromAndTo,Between %1$s and %2$s
+1288,trafficEventDetails,On %1$s %2$s
+1289,trafficEventOption,Traffic Events
+1290,trafficEventRoadDirectionBeginAndEnd,From %1$s to %2$s
+1291,trafficEventRoadDirectionEnd,To %1$s
+1292,trafficEventsAlongRoute,Along Route
+1293,trafficEventsAvoidFailContent,No Better Routes Found
+1294,trafficEventsAvoidFailTitle,Unable to Avoid Traffic
+1295,trafficEventsAvoidTraffic,Avoid Traffic
+1296,trafficEventsDelay,(plus)%1$s min
+1297,trafficEventsDelayPrefix,Delay:
+1298,trafficEventsFoot,%1$s ft
+1299,trafficEventsKilometer,%1$s km
+1300,trafficEventsMeter,%1$s m
+1301,trafficEventsMile,%1$s mi
+1302,trafficEventsNearby,Nearby
+1303,trafficEventsNoNetworkConnection,No Network Connection
+1304,trafficEventsNoTrafficAlongRoute,No Traffic Along Route
+1305,trafficEventsOn1,On
+1306,trafficEventsOn2,On
+1307,trafficEventsSortHighwayFirst,Highway First
+1308,trafficEventsSortStreetName,Street Name
+1309,trafficEventsTrafficDetails,Traffic Details
+1310,trafficEventsTrafficIncident,Traffic Incident
+1311,trafficEventsTrafficIncidentPrefix,Traffic Incident
+1312,trafficEventsTrafficSegmentAvoided,Traffic Segment Avoided
+1313,trafficEventsTrafficSegmentRecovered,Traffic Segment Recovered
+1314,trafficEventsTrafficSource,Traffic Source:
+1315,trafficEventsUnavailableContent,Tether Info System to your phone to get Live Traffic.
+1316,trafficEventsUnavailableTitle,Traffic Event Unavailable
+1317,trafficEventsYard,%1$s yd
+1318,trafficIncidentLabelDifficultDrivingCondition,Difficult Driving Condition
+1319,trafficIncidentLabelMiscellaneous,Miscellaneous
+1320,trafficIncidentLabelPolice,Police
+1321,trafficIncidentLabelReducedVisibility,Reduced Visibility
+1322,trafficIncidentLabelSmogAlerts,Smog Alerts
+1323,trafficIncidentLabelSnowAndIce,Snow and Ice
+1324,trafficIncidentLabelSpeedCamera,Speed Camera
+1325,trafficIncidentLabelSpeedTrap,Speed Trap
+1326,trafficIncidentLabelTrafficCamera,Traffic Camera
+1327,trafficIncidentLabelTurnOnRadio,Turn on Radio
+1328,trafficIncidentLabelUnknownType,Unknown Type
+1329,trafficNearbyTitle,Traffic Nearby
+1330,trafficPreferenceLabel,Traffic Preferences
+1331,trafficPreferenceTitle,Traffic Preferences
+1332,transitItemLabel,Transit
+1333,transitScreenTitle,Transit
+1334,travelTime,Travel Time:
+1335,travelTimeLabel,Travel Time
+1336,ui_nav1,Nav
+1337,updateAutomatically,Automatically Update Next Time
+1338,updateCompleteMessage,Your Local Map has been updated. Relaunch Navigation to use the latest map data.
+1339,updateInBackgroundMessage,An update is running in the background. You will be notified when it is done.
+1340,usualTitle,Usual
+1341,vehicleMaintenanceItemLabel,Vehicle Maintenance
+1342,vehicle_diesel,vehicle diesel
+1343,veterinarianItemLabel,Veterinarians
+1344,volumeControlNavVoicePromptLevel,Nav Voice Prompt Level
+1345,volumeControlNavVoicePromptStandard,Standard
+1346,volumeControlNavVoicePromptToneOnly,Tone Only
+1347,volumeControlNavigationVolume,Navigation Volume
+1348,volumeControlSettingEntry,Navigation Voice Control
+1349,volumeControlSettingTitle,Navigation Voice Control
+1350,volumeControlVoiceBeepOnly,Tone Only
+1351,volumeControlVoiceFull,Full Prompt
+1352,volumeControlVoiceGuidance,Nav Voice Prompt Level During Call
+1353,volumeControlVoiceNone,None
+1357,warn_rejectPermission,Navigation can only be enabled after this permission is granted.
+1358,warning,Warning
+1359,wayPointAdd,Add to Trip
+1360,wayPointMakeNew,New Destination
+1361,wayPointSummary,Total: %1$s
+1362,whereCurrentLocation,Current Location
+1363,whereMyLocation,My Location
+1364,wherePrevious,Previous
+1365,whereUpcoming,Upcoming
+1366,yourNavServiceRenewed,Your Navigation Service has been renewed.
+1367,yourSubscriptionRenewed,Your subscription has been renewed.
+0,continue_permissions,Continue
+1,gdprDialogGoToSettings,Go to Settings
+2,gdprDialogMessage,You need to grant permissions to Navigation app in system settings.
+3,gdprDialogTitle,Permission Required
+4,grant_permission,"To grant access, tap Show Permission below."
+5,oemCustomizedPoi1ItemLabel,Agoda
+6,oemCustomizedPoi2ItemLabel,Wongnai
+7,oemCustomizedPoi3ItemLabel,EV Chargers\n(MG&Partners)
+8,dealershipItemLabel,MG Dealership
+9,mainContent_requestPermissions,"For the use of Navigation, permissions to access your Storage, Location and Phone are required."
+10,mix_panel_prod_token,9233f04270a06b8d1ddcce8d4bcb9b3f
+11,mix_panel_stag_token,02d488318d37eca70cce9cf3c4eecb5e
+12,navConnectorTypesEVAll,All Charging Networks
+13,navNoNetworkConnectionTipEV,"Unstable network connection, please try it later."
+14,navSystemSettingsGrantAccess,Please go to System Settings to grant access.
+15,navWarningCallNotPossible,"Without the access to your Phone, Navigation cannot enable the “Call” feature."
+16,onlySelectedChargingNetworks,Only Selected Charging Networks
+17,speedLimit,Speed Limit
+18,vrAlreadyInAvoidedRoute,You\'ve already avoided %1$s.
+19,vrAlreadyInPreferenceRoute,You are already on the %1$s route.
+20,warn_rejectContacts,"Without the access to your Contacts, Navigation cannot enable the “Drive to contact” feature."

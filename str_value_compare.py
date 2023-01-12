@@ -36,12 +36,35 @@ def parse_xml(source_):
             data_list.append([child.get('name'), value])
     return data_list
     
-def parse_csv(dest_, origin_col_name,  cmp_col_name):
-    dest_df = pd.read_csv(dest_, usecols = ['String ID', origin_col_name], encoding='utf-8')
+def parse_csv(dest_, dest_sheet, origin_col_name,  cmp_col_name):
+    dest_df = pd.read_excel(dest_, sheet_name='Sheet', usecols = ['String ID', origin_col_name])
     dest_df.rename({"String ID": "name", origin_col_name: cmp_col_name}, inplace=True, axis='columns')
+    
+    proj_spec_df = pd.read_excel(dest_, sheet_name=dest_sheet)
+    if origin_col_name in proj_spec_df.columns:
+        # If we have this kind of column in the project specific sheet  
+        print("Have extra columns in project specific sheet, start to do merge..")
+        proj_spec_df = proj_spec_df.filter(["String ID", origin_col_name], axis=1)
+        proj_spec_df.rename({"String ID": "name", origin_col_name: cmp_col_name}, inplace=True, axis='columns')
+        print(proj_spec_df.head(5))
+        print("Before delete: " + str(len(dest_df)))
+        dest_df = dest_df[~ dest_df["name"].isin(proj_spec_df["name"])]
+        print("After delete: " + str(len(dest_df)))
+        dest_df = pd.concat([dest_df, proj_spec_df])
+        print("After merge: " +str(len(dest_df)))
+        dest_df.to_csv("result_merge.csv")
+    else:
+        print("No extra columns in project specific sheet")
+    
+    if origin_col_name == "English text":
+        print("Handle no translation part...")
+        no_translation_df = pd.read_excel(dest_, sheet_name="No translation")
+        print(no_translation_df.head(5))
+        no_translation_df.rename({"String ID": "name", origin_col_name: cmp_col_name}, inplace=True, axis='columns')
+        dest_df = pd.concat([dest_df, no_translation_df])
     return dest_df
 
-def compare(source_, source_col, dest_, dest_col):
+def compare(source_, source_col, dest_, dest_col, dest_sheet):
 
     a = apk.APK(source_)
     arsc = a.get_android_resources()
@@ -69,7 +92,7 @@ def compare(source_, source_col, dest_, dest_col):
 
     df_source = pd.DataFrame(res, columns=["name", "value_source"])
    
-    df_dest  = parse_csv(dest_, dest_col, "value_dest")
+    df_dest  = parse_csv(dest_, dest_sheet, dest_col, "value_dest")
     df_cmp = df_source.merge(df_dest, on="name", how="inner", left_index=False, right_index=False)
     print("total_len:" + str(len(df_cmp)))
     # Multi conditon reference: https://blog.csdn.net/qq_38727626/article/details/100164430
@@ -93,14 +116,15 @@ if __name__ == '__main__':
     parser.add_argument("--source_col", dest="source_col", type=str, help="Source file path" )
     parser.add_argument("--dest", dest="dest", type=str, help="Destination file path")
     parser.add_argument("--dest_col", dest="dest_col", type=str, help="The destination column name")
+    parser.add_argument("--dest_sheet", dest="dest_sheet", type=str, help="The destination app specific sheet")
     
     args = parser.parse_args()
     source_ = args.source
     source_col = args.source_col
     dest_ = args.dest
     dest_col = args.dest_col
-    
-    res = compare(source_, source_col, dest_, dest_col)
+    dest_sheet = args.dest_sheet
+    res = compare(source_, source_col, dest_, dest_col, dest_sheet)
     if res is True:
         print("Compare successfully, source is equal to dest")
     else:

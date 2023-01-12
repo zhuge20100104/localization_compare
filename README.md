@@ -21,11 +21,10 @@
 
 ```shell
     # 英语
-    python str_value_compare.py --source ./pangu.apk --source_col "en" --dest ./dest_values.csv --dest_col "en(English)"
+    python str_value_compare.py --source ./pangu.apk --source_col "en" --dest "China Oversea English Resources(2022-01-20).xlsx" --dest_col "English text" --dest_sheet "wukong"
 
     # 阿拉伯语
-    python str_value_compare.py --source ./pangu.apk  --source_col "ar"  --dest ./dest_values.csv  --dest_col "ar(Arabic)"
-
+    python str_value_compare.py --source ./pangu.apk --source_col "ar" --dest "China Oversea English Resources(2022-01-20).xlsx" --dest_col "ar(Arabic)" --dest_sheet "wukong"
 
 ```
 
