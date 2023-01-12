@@ -41,7 +41,7 @@
       其他的我也不是测这个的，或者开发这个的，请找开发去问。联系人Wang AnZhou。
      dest: 开发提供的xlsx语言文件，找开发要
      dest_col: 语言文件中对应的列，不清楚的去问开发吧。
-     dest_sheet: 这个是说特定项目对应的sheet。 查看哪个xlsx文件，可取值包括"wukong", "nezha"和"mulan"。
+     dest_sheet: 这个是说特定项目对应的sheet。 查看那个xlsx文件，可取值包括"wukong", "nezha"和"mulan"。
 ```
 
 
